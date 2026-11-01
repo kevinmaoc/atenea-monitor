@@ -8,8 +8,8 @@
   "/cdn/fonts/arimo/arimo_n4.a7efb558ca22d2002248bbe6f302a98edee38e35.woff2",
   "/cdn/fonts/arimo/arimo_n5.a6cc016de05b75be63cb193704728ed8065f04bb.woff2",
   "/cdn/shop/files/Favicon_Atenea_08-25_b3a81eb2-26c3-4498-99af-985bea35b24d.png",
-  "/cdn/shop/t/88/assets/custom.css",
-  "/cdn/shop/t/88/assets/theme.css",
+  "/cdn/shop/t/90/assets/custom.css",
+  "/cdn/shop/t/90/assets/theme.css",
   "/collections/1st-scene",
   "/collections/accesorios",
   "/collections/all",
@@ -83,6 +83,7 @@
   "/products/bronzer-allure-crema-y-compacto",
   "/products/bronzer-compacto-sublime",
   "/products/bronzer-cremoso",
+  "/products/calendario-de-adviento",
   "/products/charm-bag",
   "/products/click-lipstick-sublime",
   "/products/contorno-en-stick-sublime",
@@ -844,6 +845,7 @@
   "/en/products/bronzer-cremoso-en-barra-travel-size",
   "/en/products/bronzer-matte",
   "/en/products/bronzer-mini-brocha-sublime",
+  "/en/products/calendario-de-adviento",
   "/en/products/charm-bag",
   "/en/products/click-lipstick-sublime",
   "/en/products/contorno-en-stick-sublime",
@@ -1219,6 +1221,7 @@
   "/products/bronzer-cremoso-en-barra-travel-size",
   "/products/bronzer-matte",
   "/products/bronzer-mini-brocha-sublime",
+  "/products/calendario-de-adviento",
   "/products/charm-bag",
   "/products/click-lipstick-sublime",
   "/products/contorno-en-stick-sublime",
@@ -1400,5 +1403,9 @@
   "/products/trio-de-cejas-1st-scene",
   "/products/trio-de-cejas-blondie-savage"
  ],
- "keyword_hits": []
+ "keyword_hits": [
+  "adviento",
+  "url:/en/products/calendario-de-adviento",
+  "url:/products/calendario-de-adviento"
+ ]
 }
